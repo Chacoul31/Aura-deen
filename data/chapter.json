@@ -1,0 +1,914 @@
+[
+  {
+    "id": 1,
+    "name": "الفاتحة",
+    "transliteration": "Al-Fātiḥah",
+    "translation": "L'Ouverture",
+    "type": "meccan",
+    "total_verses": 7
+  },
+  {
+    "id": 2,
+    "name": "البقرة",
+    "transliteration": "Al-Baqarah",
+    "translation": "La Vache",
+    "type": "medinan",
+    "total_verses": 286
+  },
+  {
+    "id": 3,
+    "name": "آل عمران",
+    "transliteration": "Āl ʿImrān",
+    "translation": "La Famille d'ʿImrān",
+    "type": "medinan",
+    "total_verses": 200
+  },
+  {
+    "id": 4,
+    "name": "النساء",
+    "transliteration": "An-Nisāʾ",
+    "translation": "Les Femmes",
+    "type": "medinan",
+    "total_verses": 176
+  },
+  {
+    "id": 5,
+    "name": "المائدة",
+    "transliteration": "Al-Māʾidah",
+    "translation": "La Table servie",
+    "type": "medinan",
+    "total_verses": 120
+  },
+  {
+    "id": 6,
+    "name": "الأنعام",
+    "transliteration": "Al-Anʿām",
+    "translation": "Les Bestiaux",
+    "type": "meccan",
+    "total_verses": 165
+  },
+  {
+    "id": 7,
+    "name": "الأعراف",
+    "transliteration": "Al-Aʿrāf",
+    "translation": "Al-Aʿrāf",
+    "type": "meccan",
+    "total_verses": 206
+  },
+  {
+    "id": 8,
+    "name": "الأنفال",
+    "transliteration": "Al-Anfāl",
+    "translation": "Le Butin",
+    "type": "medinan",
+    "total_verses": 75
+  },
+  {
+    "id": 9,
+    "name": "التوبة",
+    "transliteration": "At-Tawbah",
+    "translation": "Le Repentir",
+    "type": "medinan",
+    "total_verses": 129
+  },
+  {
+    "id": 10,
+    "name": "يونس",
+    "transliteration": "Yūnus",
+    "translation": "Yunus",
+    "type": "meccan",
+    "total_verses": 109
+  },
+  {
+    "id": 11,
+    "name": "هود",
+    "transliteration": "Hūd",
+    "translation": "Hud",
+    "type": "meccan",
+    "total_verses": 123
+  },
+  {
+    "id": 12,
+    "name": "يوسف",
+    "transliteration": "Yūsuf",
+    "translation": "Joseph",
+    "type": "meccan",
+    "total_verses": 111
+  },
+  {
+    "id": 13,
+    "name": "الرعد",
+    "transliteration": "Ar-Raʿd",
+    "translation": "Le Tonnerre",
+    "type": "medinan",
+    "total_verses": 43
+  },
+  {
+    "id": 14,
+    "name": "ابراهيم",
+    "transliteration": "Ibrāhīm",
+    "translation": "Ibrahim",
+    "type": "meccan",
+    "total_verses": 52
+  },
+  {
+    "id": 15,
+    "name": "الحجر",
+    "transliteration": "Al-Ḥijr",
+    "translation": "Al-Ḥijr",
+    "type": "meccan",
+    "total_verses": 99
+  },
+  {
+    "id": 16,
+    "name": "النحل",
+    "transliteration": "An-Naḥl",
+    "translation": "Les Abeilles",
+    "type": "meccan",
+    "total_verses": 128
+  },
+  {
+    "id": 17,
+    "name": "الإسراء",
+    "transliteration": "Al-Isrāʾ",
+    "translation": "Le Voyage nocturne",
+    "type": "meccan",
+    "total_verses": 111
+  },
+  {
+    "id": 18,
+    "name": "الكهف",
+    "transliteration": "Al-Kahf",
+    "translation": "La Caverne",
+    "type": "meccan",
+    "total_verses": 110
+  },
+  {
+    "id": 19,
+    "name": "مريم",
+    "transliteration": "Maryam",
+    "translation": "Marie",
+    "type": "meccan",
+    "total_verses": 98
+  },
+  {
+    "id": 20,
+    "name": "طه",
+    "transliteration": "Ṭā-Hā",
+    "translation": "Tā-Hā",
+    "type": "meccan",
+    "total_verses": 135
+  },
+  {
+    "id": 21,
+    "name": "الأنبياء",
+    "transliteration": "Al-Anbiyāʾ",
+    "translation": "Les Prophètes",
+    "type": "meccan",
+    "total_verses": 112
+  },
+  {
+    "id": 22,
+    "name": "الحج",
+    "transliteration": "Al-Ḥajj",
+    "translation": "Le Pèlerinage",
+    "type": "medinan",
+    "total_verses": 78
+  },
+  {
+    "id": 23,
+    "name": "المؤمنون",
+    "transliteration": "Al-Muʾminūn",
+    "translation": "Les Croyants",
+    "type": "meccan",
+    "total_verses": 118
+  },
+  {
+    "id": 24,
+    "name": "النور",
+    "transliteration": "An-Nūr",
+    "translation": "La Lumière",
+    "type": "medinan",
+    "total_verses": 64
+  },
+  {
+    "id": 25,
+    "name": "الفرقان",
+    "transliteration": "Al-Furqān",
+    "translation": "Le Discernement",
+    "type": "meccan",
+    "total_verses": 77
+  },
+  {
+    "id": 26,
+    "name": "الشعراء",
+    "transliteration": "Ash-Shuʿarāʾ",
+    "translation": "Les Poètes",
+    "type": "meccan",
+    "total_verses": 227
+  },
+  {
+    "id": 27,
+    "name": "النمل",
+    "transliteration": "An-Naml",
+    "translation": "Les Fourmis",
+    "type": "meccan",
+    "total_verses": 93
+  },
+  {
+    "id": 28,
+    "name": "القصص",
+    "transliteration": "Al-Qaṣaṣ",
+    "translation": "Le Récit",
+    "type": "meccan",
+    "total_verses": 88
+  },
+  {
+    "id": 29,
+    "name": "العنكبوت",
+    "transliteration": "Al-ʿAnkabūt",
+    "translation": "L'Araignée",
+    "type": "meccan",
+    "total_verses": 69
+  },
+  {
+    "id": 30,
+    "name": "الروم",
+    "transliteration": "Ar-Rūm",
+    "translation": "Les Romains",
+    "type": "meccan",
+    "total_verses": 60
+  },
+  {
+    "id": 31,
+    "name": "لقمان",
+    "transliteration": "Luqmān",
+    "translation": "Luqman",
+    "type": "meccan",
+    "total_verses": 34
+  },
+  {
+    "id": 32,
+    "name": "السجدة",
+    "transliteration": "As-Sajdah",
+    "translation": "La Prosternation",
+    "type": "meccan",
+    "total_verses": 30
+  },
+  {
+    "id": 33,
+    "name": "الأحزاب",
+    "transliteration": "Al-Aḥzāb",
+    "translation": "Les Coalisés",
+    "type": "medinan",
+    "total_verses": 73
+  },
+  {
+    "id": 34,
+    "name": "سبإ",
+    "transliteration": "Sabaʾ",
+    "translation": "Sabaʾ",
+    "type": "meccan",
+    "total_verses": 54
+  },
+  {
+    "id": 35,
+    "name": "فاطر",
+    "transliteration": "Fāṭir",
+    "translation": "Le Créateur",
+    "type": "meccan",
+    "total_verses": 45
+  },
+  {
+    "id": 36,
+    "name": "يس",
+    "transliteration": "Yā-Sīn",
+    "translation": "Yā-Sīn",
+    "type": "meccan",
+    "total_verses": 83
+  },
+  {
+    "id": 37,
+    "name": "الصافات",
+    "transliteration": "Aṣ-Ṣāffāt",
+    "translation": "Les Rangés",
+    "type": "meccan",
+    "total_verses": 182
+  },
+  {
+    "id": 38,
+    "name": "ص",
+    "transliteration": "Ṣād",
+    "translation": "Sad",
+    "type": "meccan",
+    "total_verses": 88
+  },
+  {
+    "id": 39,
+    "name": "الزمر",
+    "transliteration": "Az-Zumar",
+    "translation": "Les Groupes",
+    "type": "meccan",
+    "total_verses": 75
+  },
+  {
+    "id": 40,
+    "name": "غافر",
+    "transliteration": "Ghāfir",
+    "translation": "Le Pardonneur",
+    "type": "meccan",
+    "total_verses": 85
+  },
+  {
+    "id": 41,
+    "name": "فصلت",
+    "transliteration": "Fuṣṣilat",
+    "translation": "Les Versets détaillés",
+    "type": "meccan",
+    "total_verses": 54
+  },
+  {
+    "id": 42,
+    "name": "الشورى",
+    "transliteration": "Ash-Shūrā",
+    "translation": "La Consultation",
+    "type": "meccan",
+    "total_verses": 53
+  },
+  {
+    "id": 43,
+    "name": "الزخرف",
+    "transliteration": "Az-Zukhruf",
+    "translation": "L'Ornement",
+    "type": "meccan",
+    "total_verses": 89
+  },
+  {
+    "id": 44,
+    "name": "الدخان",
+    "transliteration": "Ad-Dukhān",
+    "translation": "La Fumée",
+    "type": "meccan",
+    "total_verses": 59
+  },
+  {
+    "id": 45,
+    "name": "الجاثية",
+    "transliteration": "Al-Jāthiyah",
+    "translation": "L'Agenouillée",
+    "type": "meccan",
+    "total_verses": 37
+  },
+  {
+    "id": 46,
+    "name": "الأحقاف",
+    "transliteration": "Al-Aḥqāf",
+    "translation": "Al-Ahqaf",
+    "type": "meccan",
+    "total_verses": 35
+  },
+  {
+    "id": 47,
+    "name": "محمد",
+    "transliteration": "Muḥammad",
+    "translation": "Muḥammad",
+    "type": "medinan",
+    "total_verses": 38
+  },
+  {
+    "id": 48,
+    "name": "الفتح",
+    "transliteration": "Al-Fatḥ",
+    "translation": "La Victoire",
+    "type": "medinan",
+    "total_verses": 29
+  },
+  {
+    "id": 49,
+    "name": "الحجرات",
+    "transliteration": "Al-Ḥujurāt",
+    "translation": "Les Appartements",
+    "type": "medinan",
+    "total_verses": 18
+  },
+  {
+    "id": 50,
+    "name": "ق",
+    "transliteration": "Qāf",
+    "translation": "Qaf",
+    "type": "meccan",
+    "total_verses": 45
+  },
+  {
+    "id": 51,
+    "name": "الذاريات",
+    "transliteration": "Adh-Dhāriyāt",
+    "translation": "Celles qui dispersent",
+    "type": "meccan",
+    "total_verses": 60
+  },
+  {
+    "id": 52,
+    "name": "الطور",
+    "transliteration": "Aṭ-Ṭūr",
+    "translation": "Le Mont",
+    "type": "meccan",
+    "total_verses": 49
+  },
+  {
+    "id": 53,
+    "name": "النجم",
+    "transliteration": "An-Najm",
+    "translation": "L'Étoile",
+    "type": "meccan",
+    "total_verses": 62
+  },
+  {
+    "id": 54,
+    "name": "القمر",
+    "transliteration": "Al-Qamar",
+    "translation": "La Lune",
+    "type": "meccan",
+    "total_verses": 55
+  },
+  {
+    "id": 55,
+    "name": "الرحمن",
+    "transliteration": "Ar-Raḥmān",
+    "translation": "Le Tout Miséricordieux",
+    "type": "medinan",
+    "total_verses": 78
+  },
+  {
+    "id": 56,
+    "name": "الواقعة",
+    "transliteration": "Al-Wāqiʿah",
+    "translation": "L'Événement",
+    "type": "meccan",
+    "total_verses": 96
+  },
+  {
+    "id": 57,
+    "name": "الحديد",
+    "transliteration": "Al-Ḥadīd",
+    "translation": "Le Fer",
+    "type": "medinan",
+    "total_verses": 29
+  },
+  {
+    "id": 58,
+    "name": "المجادلة",
+    "transliteration": "Al-Mujādilah",
+    "translation": "La Discussion",
+    "type": "medinan",
+    "total_verses": 22
+  },
+  {
+    "id": 59,
+    "name": "الحشر",
+    "transliteration": "Al-Ḥashr",
+    "translation": "L'Exode",
+    "type": "medinan",
+    "total_verses": 24
+  },
+  {
+    "id": 60,
+    "name": "الممتحنة",
+    "transliteration": "Al-Mumtaḥanah",
+    "translation": "L'Éprouvée",
+    "type": "medinan",
+    "total_verses": 13
+  },
+  {
+    "id": 61,
+    "name": "الصف",
+    "transliteration": "Aṣ-Ṣaff",
+    "translation": "Le Rang",
+    "type": "medinan",
+    "total_verses": 14
+  },
+  {
+    "id": 62,
+    "name": "الجمعة",
+    "transliteration": "Al-Jumuʿah",
+    "translation": "Le Vendredi",
+    "type": "medinan",
+    "total_verses": 11
+  },
+  {
+    "id": 63,
+    "name": "المنافقون",
+    "transliteration": "Al-Munāfiqūn",
+    "translation": "Les Hypocrites",
+    "type": "medinan",
+    "total_verses": 11
+  },
+  {
+    "id": 64,
+    "name": "التغابن",
+    "transliteration": "At-Taghābun",
+    "translation": "La Grande Perte",
+    "type": "medinan",
+    "total_verses": 18
+  },
+  {
+    "id": 65,
+    "name": "الطلاق",
+    "transliteration": "Aṭ-Ṭalāq",
+    "translation": "Le Divorce",
+    "type": "medinan",
+    "total_verses": 12
+  },
+  {
+    "id": 66,
+    "name": "التحريم",
+    "transliteration": "At-Taḥrīm",
+    "translation": "L'Interdiction",
+    "type": "medinan",
+    "total_verses": 12
+  },
+  {
+    "id": 67,
+    "name": "الملك",
+    "transliteration": "Al-Mulk",
+    "translation": "La Royauté",
+    "type": "meccan",
+    "total_verses": 30
+  },
+  {
+    "id": 68,
+    "name": "القلم",
+    "transliteration": "Al-Qalam",
+    "translation": "La Plume",
+    "type": "meccan",
+    "total_verses": 52
+  },
+  {
+    "id": 69,
+    "name": "الحاقة",
+    "transliteration": "Al-Ḥāqqah",
+    "translation": "L'inéluctable",
+    "type": "meccan",
+    "total_verses": 52
+  },
+  {
+    "id": 70,
+    "name": "المعارج",
+    "transliteration": "Al-Maʿārij",
+    "translation": "Les Voies d'ascension",
+    "type": "meccan",
+    "total_verses": 44
+  },
+  {
+    "id": 71,
+    "name": "نوح",
+    "transliteration": "Nūḥ",
+    "translation": "Noé",
+    "type": "meccan",
+    "total_verses": 28
+  },
+  {
+    "id": 72,
+    "name": "الجن",
+    "transliteration": "Al-Jinn",
+    "translation": "Les Djinns",
+    "type": "meccan",
+    "total_verses": 28
+  },
+  {
+    "id": 73,
+    "name": "المزمل",
+    "transliteration": "Al-Muzzammil",
+    "translation": "L'Enveloppé",
+    "type": "meccan",
+    "total_verses": 20
+  },
+  {
+    "id": 74,
+    "name": "المدثر",
+    "transliteration": "Al-Muddaththir",
+    "translation": "Le Revêtu d'un manteau",
+    "type": "meccan",
+    "total_verses": 56
+  },
+  {
+    "id": 75,
+    "name": "القيامة",
+    "transliteration": "Al-Qiyāmah",
+    "translation": "La Résurrection",
+    "type": "meccan",
+    "total_verses": 40
+  },
+  {
+    "id": 76,
+    "name": "الانسان",
+    "transliteration": "Al-Insān",
+    "translation": "L'Homme",
+    "type": "medinan",
+    "total_verses": 31
+  },
+  {
+    "id": 77,
+    "name": "المرسلات",
+    "transliteration": "Al-Mursalāt",
+    "translation": "Les Envoyés",
+    "type": "meccan",
+    "total_verses": 50
+  },
+  {
+    "id": 78,
+    "name": "النبإ",
+    "transliteration": "An-Nabaʾ",
+    "translation": "La Grande Nouvelle",
+    "type": "meccan",
+    "total_verses": 40
+  },
+  {
+    "id": 79,
+    "name": "النازعات",
+    "transliteration": "An-Nāziʿāt",
+    "translation": "Ceux qui arrachent",
+    "type": "meccan",
+    "total_verses": 46
+  },
+  {
+    "id": 80,
+    "name": "عبس",
+    "transliteration": "ʿAbasa",
+    "translation": "Il s'est renfrogné",
+    "type": "meccan",
+    "total_verses": 42
+  },
+  {
+    "id": 81,
+    "name": "التكوير",
+    "transliteration": "At-Takwīr",
+    "translation": "L'Obscurcissement",
+    "type": "meccan",
+    "total_verses": 29
+  },
+  {
+    "id": 82,
+    "name": "الإنفطار",
+    "transliteration": "Al-Infiṭār",
+    "translation": "La Rupture",
+    "type": "meccan",
+    "total_verses": 19
+  },
+  {
+    "id": 83,
+    "name": "المطففين",
+    "transliteration": "Al-Muṭaffifīn",
+    "translation": "Les Fraudeurs",
+    "type": "meccan",
+    "total_verses": 36
+  },
+  {
+    "id": 84,
+    "name": "الإنشقاق",
+    "transliteration": "Al-Inshiqāq",
+    "translation": "La Déchirure",
+    "type": "meccan",
+    "total_verses": 25
+  },
+  {
+    "id": 85,
+    "name": "البروج",
+    "transliteration": "Al-Burūj",
+    "translation": "Les Constellations",
+    "type": "meccan",
+    "total_verses": 22
+  },
+  {
+    "id": 86,
+    "name": "الطارق",
+    "transliteration": "Aṭ-Ṭāriq",
+    "translation": "L'Astre nocturne",
+    "type": "meccan",
+    "total_verses": 17
+  },
+  {
+    "id": 87,
+    "name": "الأعلى",
+    "transliteration": "Al-Aʿlā",
+    "translation": "Le Très-Haut",
+    "type": "meccan",
+    "total_verses": 19
+  },
+  {
+    "id": 88,
+    "name": "الغاشية",
+    "transliteration": "Al-Ghāshiyah",
+    "translation": "L' enveloppant",
+    "type": "meccan",
+    "total_verses": 26
+  },
+  {
+    "id": 89,
+    "name": "الفجر",
+    "transliteration": "Al-Fajr",
+    "translation": "L'Aube",
+    "type": "meccan",
+    "total_verses": 30
+  },
+  {
+    "id": 90,
+    "name": "البلد",
+    "transliteration": "Al-Balad",
+    "translation": "La Cité",
+    "type": "meccan",
+    "total_verses": 20
+  },
+  {
+    "id": 91,
+    "name": "الشمس",
+    "transliteration": "Ash-Shams",
+    "translation": "Le Soleil",
+    "type": "meccan",
+    "total_verses": 15
+  },
+  {
+    "id": 92,
+    "name": "الليل",
+    "transliteration": "Al-Layl",
+    "translation": "La Nuit",
+    "type": "meccan",
+    "total_verses": 21
+  },
+  {
+    "id": 93,
+    "name": "الضحى",
+    "transliteration": "Aḍ-Ḍuḥā",
+    "translation": "Le Jour montant",
+    "type": "meccan",
+    "total_verses": 11
+  },
+  {
+    "id": 94,
+    "name": "الشرح",
+    "transliteration": "Ash-Sharḥ",
+    "translation": "L'Ouverture",
+    "type": "meccan",
+    "total_verses": 8
+  },
+  {
+    "id": 95,
+    "name": "التين",
+    "transliteration": "At-Tīn",
+    "translation": "Le Figuier",
+    "type": "meccan",
+    "total_verses": 8
+  },
+  {
+    "id": 96,
+    "name": "العلق",
+    "transliteration": "Al-ʿAlaq",
+    "translation": "L'Adhérence",
+    "type": "meccan",
+    "total_verses": 19
+  },
+  {
+    "id": 97,
+    "name": "القدر",
+    "transliteration": "Al-Qadr",
+    "translation": "La Destinée",
+    "type": "meccan",
+    "total_verses": 5
+  },
+  {
+    "id": 98,
+    "name": "البينة",
+    "transliteration": "Al-Bayyinah",
+    "translation": "La Preuve",
+    "type": "medinan",
+    "total_verses": 8
+  },
+  {
+    "id": 99,
+    "name": "الزلزلة",
+    "transliteration": "Az-Zalzalah",
+    "translation": "La Secousse",
+    "type": "medinan",
+    "total_verses": 8
+  },
+  {
+    "id": 100,
+    "name": "العاديات",
+    "transliteration": "Al-ʿĀdiyāt",
+    "translation": "Les Coursiers",
+    "type": "meccan",
+    "total_verses": 11
+  },
+  {
+    "id": 101,
+    "name": "القارعة",
+    "transliteration": "Al-Qāriʿah",
+    "translation": "Le Fracas",
+    "type": "meccan",
+    "total_verses": 11
+  },
+  {
+    "id": 102,
+    "name": "التكاثر",
+    "transliteration": "At-Takāthur",
+    "translation": "La Course aux richesses",
+    "type": "meccan",
+    "total_verses": 8
+  },
+  {
+    "id": 103,
+    "name": "العصر",
+    "transliteration": "Al-ʿAṣr",
+    "translation": "Le Temps",
+    "type": "meccan",
+    "total_verses": 3
+  },
+  {
+    "id": 104,
+    "name": "الهمزة",
+    "transliteration": "Al-Humazah",
+    "translation": "Les Calomniateurs",
+    "type": "meccan",
+    "total_verses": 9
+  },
+  {
+    "id": 105,
+    "name": "الفيل",
+    "transliteration": "Al-Fīl",
+    "translation": "L'Éléphant",
+    "type": "meccan",
+    "total_verses": 5
+  },
+  {
+    "id": 106,
+    "name": "قريش",
+    "transliteration": "Quraysh",
+    "translation": "Quraysh",
+    "type": "meccan",
+    "total_verses": 4
+  },
+  {
+    "id": 107,
+    "name": "الماعون",
+    "transliteration": "Al-Māʿūn",
+    "translation": "L'Ustensile",
+    "type": "meccan",
+    "total_verses": 7
+  },
+  {
+    "id": 108,
+    "name": "الكوثر",
+    "transliteration": "Al-Kawthar",
+    "translation": "L'Abondance",
+    "type": "meccan",
+    "total_verses": 3
+  },
+  {
+    "id": 109,
+    "name": "الكافرون",
+    "transliteration": "Al-Kāfirūn",
+    "translation": "Les Mécréants",
+    "type": "meccan",
+    "total_verses": 6
+  },
+  {
+    "id": 110,
+    "name": "النصر",
+    "transliteration": "An-Naṣr",
+    "translation": "Le Secours",
+    "type": "medinan",
+    "total_verses": 3
+  },
+  {
+    "id": 111,
+    "name": "المسد",
+    "transliteration": "Al-Masad",
+    "translation": "La Corde torsadée",
+    "type": "meccan",
+    "total_verses": 5
+  },
+  {
+    "id": 112,
+    "name": "الإخلاص",
+    "transliteration": "Al-Ikhlāṣ",
+    "translation": "La Sincérité",
+    "type": "meccan",
+    "total_verses": 4
+  },
+  {
+    "id": 113,
+    "name": "الفلق",
+    "transliteration": "Al-Falaq",
+    "translation": "L'Aube naissante",
+    "type": "meccan",
+    "total_verses": 5
+  },
+  {
+    "id": 114,
+    "name": "الناس",
+    "transliteration": "An-Nās",
+    "translation": "Les Hommes",
+    "type": "meccan",
+    "total_verses": 6
+  }
+]
