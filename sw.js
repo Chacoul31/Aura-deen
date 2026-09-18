@@ -2,7 +2,6 @@ const CACHE_NAME = 'aura-deen-v1';
 
 // Coquille de l'app + données texte : mises en cache dès l'installation
 const PRECACHE_ASSETS = [
-  './',
   './index.html',
   './manifest.json',
   './data/chapter.json',
