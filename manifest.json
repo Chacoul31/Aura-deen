@@ -3,6 +3,7 @@
   "short_name": "Aura Deen",
   "description": "Compagnon de lecture et de découverte du Coran — recherche, écoute verset par verset, quiz.",
   "start_url": "./index.html",
+  "start_url": "./dev.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
